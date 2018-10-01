@@ -2,6 +2,7 @@
 
 https://gyadesa.github.io/wordGuessGame/index.html
 
+https://github.com/gyadesa/Word-Guess-Game
 
 Assignment Challenge
 ----------------------------------------------------------------------------------------------------------------------------------------
