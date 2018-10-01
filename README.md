@@ -1,5 +1,8 @@
 # Word-Guess-Game
 
+https://gyadesa.github.io/wordGuessGame/index.html
+
+
 Assignment Challenge
 ----------------------------------------------------------------------------------------------------------------------------------------
 In this assignment, created one of the two possible computer games chlenges: Word Guess or Psychic. The apps will run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code.
